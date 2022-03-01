@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the Lord Blantyre, the town of Paslay, and other heretors within the paroch of Paslay, against the Earl of Dundonald.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03790</idno>
+            <idno type="STC">Wing I167</idno>
+            <idno type="STC">Wing I166A</idno>
+            <idno type="STC">ESTC R178661</idno>
+            <idno type="EEBO-CITATION">52614720</idno>
+            <idno type="OCLC">ocm 52614720</idno>
+            <idno type="VID">175920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03790)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175920)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:11, 2755:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the Lord Blantyre, the town of Paslay, and other heretors within the paroch of Paslay, against the Earl of Dundonald.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blantyre, Robert Stuart, --  Lord, 1653 or 4-1743 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Tithes --  Scotland --  Early works to 1800.</term>
+               <term>Clergy --  Salaries, etc. --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175920:1" rendition="simple:additions"/>
+            <head>INFORMATION FOR The LORD <hi>BLANTYRE,</hi> the TOWN of <hi>PASLAY,</hi> and other HERETORS
+within the PAROCH of <hi>PASLAY.</hi>
+            </head>
+            <head type="sub">Againſt The EARL of <hi>DUNDONALD.</hi>
+            </head>
+            <p>THE Teinds of the Paroch of <hi>Paſlay</hi> having belonged to the Earl of <hi>Abercorn,</hi>
+Lord of the <hi>Erection,</hi> the Miniſter of that Pariſh obtained a <hi>Decreet</hi> before
+the <hi>Commiſsion,</hi> in <hi>anno</hi> 1636, modifying 15 Chalders of Victual to be his
+conſtant modified Stipend, which was divided and allocat upon the Teinds payable to the Earl of
+<hi>Abercorn,</hi> and the Earl's Pro<g ref="char:EOLhyphen"/>perty was altogether free.</p>
+            <p>The Charge being great, Mr. <hi>Alexander Dunlop</hi> was called to be Second Mi<g ref="char:EOLhyphen"/>niſter; and
+the Firſt Miniſter did allow ſix Chalders of Victual of his modified Stipend for Mr.
+<hi>Dunlop:</hi> But the 15 Chalders of Victual, which was a plenti<g ref="char:EOLhyphen"/>ful Stipend for one Miniſter,
+being too narrow a Proviſion for two, there was a <hi>Decreet</hi> of Augmentation obtained in
+<hi>anno</hi> 1650, adding two Chalders of Victual and 100 <hi>lib.</hi> to the Second Miniſter,
+which was thereby allocat and divided u<g ref="char:EOLhyphen"/>pon the ſeveral Heretors burdened therewith; and not one
+Sixpence, either of the firſt Modification or Augmentation, was laid upon the Earl of
+<hi>Abercorn</hi>'s Lands; as will clearly appear by the ſaids two <hi>Decreets,</hi> and
+eſpecially the laſt, which contains the Allocation both of the Stipend firſt modified, and of
+the Augmentation.</p>
+            <p>The Earl of <hi>Dundonald</hi> having purchaſt the Lordſhip of <hi>Paſlay</hi> ſome
+Years af<g ref="char:EOLhyphen"/>ter the ſaid Augmentation, the Right to the Teinds made by the Earl of
+<hi>Aber<g ref="char:EOLhyphen"/>corn,</hi> firſt to the Lord <hi>Angus,</hi> and conveyed to the Earl of
+<hi>Dundonald,</hi> was ex<g ref="char:EOLhyphen"/>preſly burdened with the ſaid Modification and Augmentation.</p>
+            <p>The two Miniſters of <hi>Paſlay</hi> enjoyed a Stipend of 17 Chalder of Victual and 100
+<hi>lib.</hi> of Money, from the 1650, till the Eſtabliſhment of <hi>Epiſcopacy:</hi> And
+thereafter one ſingle <hi>Epiſcopal</hi> Miniſter coming in, he received and contented
+himſelf with a Stipend of 15 Chalder of Victual; whereby the Earl enjoyed 2 Chalder and 100
+<hi>lib.</hi>
+            </p>
+            <p>Two <hi>Presbyterian</hi> Miniſters being indulged to the Paroch of <hi>Paſlay,</hi> they
+were alſo neceſſitat to content themſelves with 15 Chalder of Victual during their
+In<g ref="char:EOLhyphen"/>cumbency.</p>
+            <p>The indulged Miniſters being turned out in 1684, two <hi>Epiſcopal</hi> Miniſters came in
+their place, who would not reſt ſatisfied with the 15 Chalder of Victual: And the Earl of
+<hi>Dundonald</hi> finding, That the Augmentation which he had kept in his Pocket would then come
+upon him, the Miniſters and Heretors were made believe, That the Decreet of Augmentation 1650 was
+<hi>Reduced,</hi> which was not ſo in fact: And there was a new Decreet of Augmentation purſued
+in 1686; libelling upon the firſt Decreet of Modification 1636, and upon the Aug<g ref="char:EOLhyphen"/>mentation in the
+Year 1650; and that the ſaid Augmentation 1650 was <hi>Redu<g ref="char:EOLhyphen"/>ced,</hi> in reſpect that the
+ſame was wholly laid upon the Earl of <hi>Abercorn</hi>'s Lands;
+<pb n="2" facs="tcp:175920:2"/>and likeways upon an Agreement betwixt the Earl, my
+Lord <hi>Roſs,</hi> and Others, for themſelves, and in Name of the reſt of the Heretors and
+the Miniſters, where<g ref="char:EOLhyphen"/>by there was a Chalder of Victual agreed to be added to the laſt
+Augmentation, And in reſpect of the <hi>Reduction</hi> of the ſaid laſt Locality in
+<hi>anno</hi> 1650, the ſaids Heretors are libelled to have obliged themſelves to have procured
+a Locality for the ſaid Victual and Money formerly allocat, and now to be added, and concluding,
+That there ſhould be an Allocation; and accordingly there is an Augmentation decerned; as alſo
+an Allocation, by which the Earl put 3 Chal<g ref="char:EOLhyphen"/>ders of Victual fairly in his own Pocket, and lays the
+whole Burden of 3 Chal<g ref="char:EOLhyphen"/>ders of Victual, and 100 <hi>lib.</hi> of Augmentation, upon other Heretors,
+where<g ref="char:EOLhyphen"/>of ſome had bought the irredeemable Right of their Teinds from the Earl of
+<hi>A<g ref="char:EOLhyphen"/>bercorn:</hi> And with the burden of which Diſpoſitions of Teinds, the Earl of
+<hi>Dundonald</hi>'s Rights were acquired.</p>
+            <p>There is a <hi>Reduction</hi> of the ſaid Decreet 1686, purſued by the Town of
+<hi>Paſlay</hi> and other Heretors; and they do inſiſt upon this Ground, That by the ſaid
+Decreet 1686, the Earl of <hi>Dundonald</hi> did gain to himſelf 3 Chalder of Victual and laid,
+the burthen upon the Heretors, upon pretence that the Decreet 1650 had been <hi>Reduced;</hi>
+whereas the ſaid Decreet 1650 was never once quarrelled, but <hi>via facti</hi> the Earl got the
+Advantage and Retention of 3 Chalder of Victual, during all the time of <hi>Epiſcopacy,</hi> till
+1686, and then got the burden laid upon the He<g ref="char:EOLhyphen"/>retors, on ſuppoſition that the former
+Modification had been <hi>Reduced.</hi> 2<hi>do.</hi> The Decreet 1686 libells, <hi>That all the
+burden of the Augmentation</hi> 1650, <hi>was laid upon the Earl of</hi> Abercorn<hi>'s Lands:</hi>
+Whereas the Decreet produced in Proceſs clears the contrair, That there was not one Shilling of
+Burden laid upon the Earl of <hi>Abercorn</hi>'s Lands; in ſo far as the Decreet not only bears
+the Lands that were burdened, but expreſſeth the Heretors to whom they belonged, and the Earl
+of <hi>Abercorn</hi> was none of the Heretors burdened. 3<hi>tio.</hi> That Augmentation being
+before the Earl of <hi>Abercon</hi>'s Sale of his Lands; and the Earl of <hi>Abercorn</hi> having
+afterwards ſold his Lands with the burden of the Miniſter's Stipend and Augmentation, the Earl
+of <hi>Dundonald</hi> had no cauſe to quarrel. 4<hi>to.</hi> The De<g ref="char:EOLhyphen"/>creet 1686 doth wholly
+confound and invert the Locality of both former De<g ref="char:EOLhyphen"/>creets, which was neceſſary to cover the
+Advantage which the Earl got: For the ſaid Decreet 1686 appoints 10 Chalder and 100 <hi>lib.</hi>
+to the Firſt Miniſter, and 8 Chalder to the Second; and then it proceeds to allocat the 10
+Chalder and 100 <hi>lib.</hi> to the Firſt, and for the Second Miniſter it allocats 4 Chalder
+of Vi<g ref="char:EOLhyphen"/>ctual of the old Stipend conform to <hi>uſe and wont;</hi> and ſo proceeds to make up the
+8 Chalder to the Second Miniſter.</p>
+            <p>By this Method of Allocation it would be thought, That the 10 Chalder of Victual and 100
+<hi>lib.</hi> to the Firſt Miniſter, and 4 Chalder to the Second was the old Stipend of 14
+Chalder. And if the thing had been fairly done, it ought to have been done ſo; for otherways no
+Man living can make ſenſe of theſe words, <hi>Four Chalder of the old Stipend conform to
+uſe and wont;</hi> Becauſe <hi>uſe and wont</hi> is wholly inverted, the firſt Modification
+being 15 Chalder and no Money at all; And the Augmentation 1650 being Two Chalder and 100
+<hi>lib.</hi> And the Allocation 1686, not proceeding conform to the firſt Modification 1636, but
+promiſ<g ref="char:EOLhyphen"/>cuouſly upon the firſt Modification 1636 and the Augmentation 1650, which did extend
+in whole to 17 Chalder Victual and 100 <hi>lib.</hi> of Money: And the ſaid laſt
+<hi>Decreet</hi> having allocat 10 Chalders of Victual and 100 <hi>lib.</hi> wherein is
+com<g ref="char:EOLhyphen"/>prehended the whole Augmentation 1650 to the firſt Miniſter, it proceeds to al<g ref="char:EOLhyphen"/>locat
+<pb n="3" facs="tcp:175920:3"/>four Chalder conform to <hi>uſe and wont</hi> to
+the Second, as if there had been no greater Fond over and above the Allocation to the firſt
+Miniſter then the ſaid 4 Chalder; Whereas truely there was 7 Chalders, whereof the Earl
+reſerved 3 Chalder to be put in his own Pocket. And then the laſt <hi>Decreet</hi> proceeds to
+make up the Second Miniſters other 4 Chalders of Victual, which is 8 in all, and bur<g ref="char:EOLhyphen"/>dens the
+Heretors of the Paroch intirely with the ſaid 4 Chalders of Victual; Whereas ſome of them had
+their Teinds bought, and ought to have been ſubjected to no greater Burden.</p>
+            <p>The Heretors do therefore inſiſt, That the Modification and Allocation may be in the firſt
+place conform to the ſaids two <hi>Decreets</hi> in <hi>Anno</hi> 1636 and 1650 which will make
+the Miniſters up 17 Chalder of Victual and 100 <hi>lib.</hi> of Money; and if the
+<hi>Commiſsion</hi> think fit to add a Chalder of the Victual furthr to make up the full Stipend
+in the laſt Augmentation, the Heretors will not ſtrugle with the Miniſter; Only they expect
+that no ſuch Augmentation ſhould take place, ſo long as the Cure is ſerved by one
+Miniſter; and that the Allocation ſhould be laid upon ſuch Teinds, whereof the heretable
+Rights are not bought, and the bought Teinds ought to be free of all future Burdens, eſpecially
+ſo long as there are other Teinds in the Paroch.</p>
+            <p>All that was urged in the laſt Debate was, upon a <hi>Conſent</hi> of the Heretors to the
+laſt <hi>Decreet.</hi>
+            </p>
+            <p>To which it is anſwered, 1<hi>mo.</hi> The <hi>Decreet</hi> doth indeed libel upon a
+<hi>Conſent,</hi> but there is no ſuch Conſent produced: And if a Conſent be produced it
+will be found to Contain an expreſs quality, That all former Allocations ſhall take place: For
+the plain Truth is, The Heretors were willing the Miniſters ſhould be competently provided; and
+the Teinds and Charge being conſiderable, they did not grudge, That they ſhould have 18 Chalder
+of Victual and 100 <hi>lib.</hi> of Money, which was an Augmentation beyond the former: But they
+never conſen<g ref="char:EOLhyphen"/>ted to the Allocation that was made, which did wholly confound both the for<g ref="char:EOLhyphen"/>mer
+<hi>Decreets:</hi> Nor did they conſent, that the Earl of <hi>Dundonald</hi> ſhould thereby
+reſerve three Chalders of Victual for his Family, of what had been moſt juſtly and regularly
+allocat to the Miniſter, by former <hi>Decreets.</hi> And therefore no reſpect to any pretended
+<hi>Conſents,</hi> ſeing the Foundation, Ground and Occaſion thereof, is not true in Fact,
+that the Augmentation 1650 was Reduced.</p>
+            <pb facs="tcp:175920:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
